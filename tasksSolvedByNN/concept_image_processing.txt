@@ -52,3 +52,6 @@ concept_image_processing
 				image
 			};;
 	*);;
+
+concept_image_processing
+	<- rrel_explored_concept: section_subject_domain_tasks_solved_by_neural_networks;;

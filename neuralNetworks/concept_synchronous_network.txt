@@ -28,3 +28,5 @@ concept_synchronous_network
 		*);;
 	*);;
 
+concept_synchronous_network
+	<- rrel_explored_concept: section_subject_domain_of_artificial_neural_networks;;

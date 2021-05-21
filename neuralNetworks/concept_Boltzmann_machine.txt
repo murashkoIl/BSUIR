@@ -51,3 +51,6 @@ concept_Boltzmann_machine
 				undirected_graph
 			};;
 	*);;
+
+concept_Boltzmann_machine
+	<- rrel_explored_concept: section_subject_domain_of_artificial_neural_networks;;

@@ -51,3 +51,6 @@ concept_expert_system
 				expert
 			};;
 	*);;
+
+concept_expert_system
+	<- rrel_explored_concept: section_subject_domain_of_artificial_neural_networks;;

@@ -47,3 +47,7 @@ concept_neuron
 				concept_context_neuron
 			};;
 	*);;
+
+
+concept_neuron
+	<- rrel_explored_concept: section_subject_domain_mathematics;;

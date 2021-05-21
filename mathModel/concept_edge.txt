@@ -50,3 +50,6 @@ concept_edge
 				vertex
 			};;
 	*);;
+
+concept_edge
+	<- rrel_explored_concept: section_subject_domain_mathematics;;

@@ -48,3 +48,7 @@ concept_learning_rate_factor
 				
 			};;
 	*);;
+
+
+concept_learning_rate_factor
+	<- rrel_explored_concept: section_subject_domain_mathematics;;

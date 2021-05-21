@@ -28,3 +28,6 @@ concept_asynchronous_network
 		*);;
 	*);;
 
+concept_asynchronous_network
+	<- rrel_explored_concept: section_subject_domain_of_artificial_neural_networks;;
+

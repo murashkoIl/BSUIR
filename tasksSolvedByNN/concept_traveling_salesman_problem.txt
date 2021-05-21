@@ -49,3 +49,6 @@ concept_traveling_salesman_problem
 				matrix
 			};;
 	*);;
+
+concept_traveling_salesman_problem
+	<- rrel_explored_concept: section_subject_domain_tasks_solved_by_neural_networks;;

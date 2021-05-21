@@ -48,3 +48,6 @@ concept_Oya_training_rule
 				nrel_output_data
 			};;
 	*);;
+
+concept_Oya_training_rule
+	<- rrel_explored_concept: section_subject_domain_of_algorithms_and_functions;;

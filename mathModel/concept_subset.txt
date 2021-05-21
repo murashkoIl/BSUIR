@@ -46,3 +46,6 @@ concept_subset
 				nrel_belonging
 			};;
 	*);;
+
+concept_subset
+	<- rrel_explored_concept: section_subject_domain_mathematics;;

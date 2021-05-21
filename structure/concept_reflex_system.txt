@@ -51,3 +51,5 @@ concept_reflex_system
 				
 			};;
 	*);;
+concept_reflex_system
+	<- rrel_explored_concept: section_subject_domain_structure_of_artificial_neural_networks;;

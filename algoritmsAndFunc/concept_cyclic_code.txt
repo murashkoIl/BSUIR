@@ -46,3 +46,5 @@ concept_cyclic_code
 				fault
 			};;
 	*);;
+concept_cyclic_code
+	<- rrel_explored_concept: section_subject_domain_of_algorithms_and_functions;;

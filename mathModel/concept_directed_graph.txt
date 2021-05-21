@@ -46,3 +46,7 @@ concept_directed_graph
 				
 			};;
 	*);;
+
+concept_directed_graph
+	<- rrel_explored_concept: section_subject_domain_mathematics;;
+
