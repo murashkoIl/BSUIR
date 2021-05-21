@@ -1,0 +1,55 @@
+concept_auto_associative_memory
+
+	<-sc_node_not_relation;
+
+	=>nrel_main_idtf:
+		[Автоассоциативная память](*<-lang_ru;;*);
+		[Auto associative memory](*<-lang_en;;*);
+		
+	=>nrel_idtf:
+		[Автоассоциативная память](*<-lang_ru;;*);
+		[Auto associative memory](*<-lang_en;;*);;
+
+
+concept_auto_associative_memory
+	<- rrel_key_sc_element: ...
+	(*
+		<- definition;;
+		
+		=> nrel_main_idtf:
+    			[Опр. (Автоассоциативная память)] (* <- lang_ru;; *);;
+    		  
+		=> nrel_using_constants: 
+			{
+				frame;
+				vector;
+				output;
+				input_vector
+				
+			};;
+			
+		<= nrel_sc_text_translation: ... 
+		(*
+			->rrel_example:
+				[<b>Автоассоциативная память</b> - это память, которая может завершить или исправить <sc_element sys_idtf=«frame»>образ</sc_element>, но не может ассоциировать полученный образ с другим образом. Данный факт является результатом одноуровневой структуры ассоциативной памяти, в которой <sc_element sys_idtf=«vector»>вектор</sc_element> появляется на <sc_element sys_idtf=«output»>выходе</sc_element> тех же нейронов, на которые поступает <sc_element sys_idtf=«input_vector»>входной вектор</sc_element>.](*<- lang_ru;; =>nrel_format: format_html;;*);;
+		*);;
+	*);;
+
+
+concept_auto_associative_memory
+	<- rrel_key_sc_element: ... 
+	(*
+		=> nrel_main_idtf:
+			[Утв.(Автоассоциативная память)] (* <- lang_ru;; *);;
+			
+ 		<= nrel_sc_text_translation: ...
+		(*
+    			-> rrel_example:
+				[Неустойчивые сети обладают интересными <sc_element sys_idtf=«parameter»>свойствами</sc_element> и изучались в качестве примера хаотических систем. В определенном смысле, это может быть достигнуто и без обратных связей, например перцептроном для случаев когда устойчивость важнее изучения хаотических систем.](*<-lang_ru;;=>nrel_format:format_html;;*);;
+		*);;
+		
+		=> nrel_using_constants:
+			{
+				parameter
+			};;
+	*);;
