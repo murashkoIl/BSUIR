@@ -48,5 +48,20 @@ concept_directed_graph
 	*);;
 
 concept_directed_graph
+	<- rrel_key_sc_element:...
+	(*
+		<- illustration;;
+		=> nrel_main_idtf:[Рис. (Ориентированный граф)](* <- lang_ru;; *);;
+		<= nrel_sc_text_translation:...
+		(*
+			-> rrel_example: "file://images/directed_graph.png"
+			(*
+				nrel_format: format_png;;
+			*);;
+		*);;
+*);;
+
+
+concept_directed_graph
 	<- rrel_explored_concept: section_subject_domain_mathematics;;
 

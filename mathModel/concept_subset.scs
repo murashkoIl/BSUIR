@@ -48,4 +48,19 @@ concept_subset
 	*);;
 
 concept_subset
+	<- rrel_key_sc_element:...
+	(*
+		<- illustration;;
+		=> nrel_main_idtf:[Рис. (Подмножество)](* <- lang_ru;; *);;
+		<= nrel_sc_text_translation:...
+		(*
+			-> rrel_example: "file://images/subset.png"
+			(*
+				nrel_format: format_png;;
+			*);;
+		*);;
+*);;
+
+
+concept_subset
 	<- rrel_explored_concept: section_subject_domain_mathematics;;

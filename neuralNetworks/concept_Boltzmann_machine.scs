@@ -52,5 +52,21 @@ concept_Boltzmann_machine
 			};;
 	*);;
 
+
+concept_Boltzmann_machine
+	<- rrel_key_sc_element:...
+	(*
+		<- illustration;;
+		=> nrel_main_idtf:[Рис. (Машина Больцмана)](* <- lang_ru;; *);;
+		<= nrel_sc_text_translation:...
+		(*
+			-> rrel_example: "file://images/Boltzman_machine.png"
+			(*
+				nrel_format: format_png;;
+			*);;
+		*);;
+*);;
+
+
 concept_Boltzmann_machine
 	<- rrel_explored_concept: section_subject_domain_of_artificial_neural_networks;;
