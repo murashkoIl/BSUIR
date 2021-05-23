@@ -5,7 +5,7 @@ concept_cyclic_code
 		[Cyclic code](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Циклический код](* <- lang_ru;; *);
-		[Cyclic code](* <- lang_eng;; *);
+		[Cyclic code](* <- lang_eng;; *);;
 
 concept_cyclic_code
 	<- rrel_key_sc_element: ...

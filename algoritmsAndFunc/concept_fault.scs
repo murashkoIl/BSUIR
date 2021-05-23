@@ -5,7 +5,7 @@ concept_fault
 		[Fault](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Ошибка](* <- lang_ru;; *);
-		[Fault](* <- lang_eng;; *);
+		[Fault](* <- lang_eng;; *);;
 
 concept_fault
 	<- rrel_key_sc_element: ...

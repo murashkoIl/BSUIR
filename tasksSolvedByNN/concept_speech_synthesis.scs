@@ -47,7 +47,7 @@ concept_speech_synthesis
 		
 		=> nrel_using_constants:
 			{
-				
+				concept_speech_synthesis
 			};;
 	*);;
 

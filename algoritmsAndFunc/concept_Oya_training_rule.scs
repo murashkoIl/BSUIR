@@ -5,7 +5,7 @@ concept_Oya_training_rule
 		[Oya training rule](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Правило обучения Ойя](* <- lang_ru;; *);
-		[Oya training rule](* <- lang_eng;; *);
+		[Oya training rule](* <- lang_eng;; *);;
 
 concept_Oya_training_rule
 	<- rrel_key_sc_element: ...
@@ -58,7 +58,7 @@ concept_Oya_training_rule
 		(*
 			-> rrel_example: "file://images/oya_training_rule.png"
 			(*
-				nrel_format: format_png;;
+				<= nrel_format: format_png;;
 			*);;
 		*);;
 *);;

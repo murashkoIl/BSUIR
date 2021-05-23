@@ -5,7 +5,7 @@ concept_neuron
 		[Neuron](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Нейрон](* <- lang_ru;; *);
-		[Neuron](* <- lang_eng;; *);
+		[Neuron](* <- lang_eng;; *);;
 
 concept_neuron
 	<- rrel_key_sc_element: ...
@@ -24,7 +24,7 @@ concept_neuron
 		(*
 			->rrel_example:
 				[<b>Нейрон</b> — это вычислительная единица, которая получает <sc_element sys_idtf=«information»>информацию</sc_element>, производит над ней простые вычисления и передает ее дальше.](*<- lang_ru;; =>nrel_format: format_html;;*);;
-		*);;с
+		*);;
 	*);;
 
 

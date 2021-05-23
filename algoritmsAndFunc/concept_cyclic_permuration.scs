@@ -5,7 +5,7 @@ concept_cyclic_permuration
 		[Cyclic permutation](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Циклическая перестановка](* <- lang_ru;; *);
-		[Cyclic permutation](* <- lang_eng;; *);
+		[Cyclic permutation](* <- lang_eng;; *);;
 
 concept_cyclic_permuration
 	<- rrel_key_sc_element: ...

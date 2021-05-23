@@ -62,7 +62,7 @@ concept_Boltzmann_machine
 		(*
 			-> rrel_example: "file://images/Boltzman_machine.png"
 			(*
-				nrel_format: format_png;;
+				=> nrel_format: format_png;;
 			*);;
 		*);;
 *);;

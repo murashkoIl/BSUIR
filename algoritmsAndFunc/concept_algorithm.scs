@@ -5,7 +5,7 @@ concept_algorithm
 		[Algorithm](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Алгоритм](* <- lang_ru;; *);
-		[Algorithm](* <- lang_eng;; *);
+		[Algorithm](* <- lang_eng;; *);;
 
 concept_algorithm
 	<- rrel_key_sc_element: ...
@@ -43,7 +43,7 @@ concept_algorithm
 		
 		=> nrel_using_constants:
 			{
-				
+				nrel_performer
 			};;
 	*);;
 

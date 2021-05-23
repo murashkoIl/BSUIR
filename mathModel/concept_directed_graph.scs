@@ -5,7 +5,7 @@ concept_directed_graph
 		[Directed graph](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Ориентированный граф](* <- lang_ru;; *);
-		[Directed graph](* <- lang_eng;; *);
+		[Directed graph](* <- lang_eng;; *);;
 
 concept_directed_graph
 	<- rrel_key_sc_element: ...
@@ -54,10 +54,8 @@ concept_directed_graph
 		=> nrel_main_idtf:[Рис. (Ориентированный граф)](* <- lang_ru;; *);;
 		<= nrel_sc_text_translation:...
 		(*
-			-> rrel_example: "file://images/directed_graph.png"
-			(*
-				nrel_format: format_png;;
-			*);;
+			-> rrel_example: "file://images/directed_graph.png";;
+			
 		*);;
 *);;
 

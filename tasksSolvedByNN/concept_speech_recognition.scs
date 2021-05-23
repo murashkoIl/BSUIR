@@ -21,7 +21,7 @@ concept_speech_recognition
     		  
 		=> nrel_using_constants: 
 			{
-				
+				concept_speech_recognition
 			};;
 			
 		<= nrel_sc_text_translation: ... 

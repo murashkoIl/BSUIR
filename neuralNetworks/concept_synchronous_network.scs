@@ -7,7 +7,7 @@ concept_synchronous_network
 		[Синхронная сеть](* <- lang_ru;; *);
 		[Synchronous network](* <- lang_eng;; *);
 
-concept_synchronous_network
+
 	<- rrel_key_sc_element: ...
 	(*
 		<- definition;;

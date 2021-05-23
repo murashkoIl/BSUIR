@@ -65,7 +65,7 @@ concept_undirected_graph
 		(*
 			-> rrel_example: "file://images/undirected_graph.png"
 			(*
-				nrel_format: format_png;;
+				<= nrel_format: format_png;;
 			*);;
 		*);;
 *);;

@@ -5,7 +5,7 @@ concept_neural_network_hyperparameter
 		[Neural network hyperparameter](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Гиперпараметры нейронной сети](* <- lang_ru;; *);
-		[Neural network hyperparameter](* <- lang_eng;; *);
+		[Neural network hyperparameter](* <- lang_eng;; *);;
 
 concept_neural_network_hyperparameter
 	<- rrel_key_sc_element: ...

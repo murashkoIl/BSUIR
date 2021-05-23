@@ -5,7 +5,7 @@ concept_learning_rate_factor
 		[Reflex system](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Коэффициент скорости обучения](* <- lang_ru;; *);
-		[Reflex system](* <- lang_eng;; *);
+		[Reflex system](* <- lang_eng;; *);;
 
 concept_learning_rate_factor
 	<- rrel_key_sc_element: ...

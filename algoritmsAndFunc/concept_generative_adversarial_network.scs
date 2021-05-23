@@ -62,7 +62,7 @@ concept_generative_adversarial_network
 		(*
 			-> rrel_example: "file://images/generative_adversarial_network.png"
 			(*
-				nrel_format: format_png;;
+				<= nrel_format: format_png;;
 			*);;
 		*);;
 *);;

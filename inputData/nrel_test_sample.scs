@@ -21,7 +21,7 @@ nrel_test_sample
     		  
 		=> nrel_using_constants: 
 			{
-				
+				concept_model
 			};;
 			
 		<= nrel_sc_text_translation: ... 

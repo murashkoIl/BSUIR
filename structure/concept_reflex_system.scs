@@ -5,7 +5,7 @@ concept_reflex_system
 		[Reflex system](* <- lang_eng;; *);
 	=>nrel_idtf:
 		[Рефлекторная система](* <- lang_ru;; *);
-		[Reflex system](* <- lang_eng;; *);
+		[Reflex system](* <- lang_eng;; *);;
 
 concept_reflex_system
 	<- rrel_key_sc_element: ...

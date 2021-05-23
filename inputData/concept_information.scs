@@ -21,7 +21,7 @@ concept_information
     		  
 		=> nrel_using_constants: 
 			{
-
+				concept_information
 			};;
 			
 		<= nrel_sc_text_translation: ... 

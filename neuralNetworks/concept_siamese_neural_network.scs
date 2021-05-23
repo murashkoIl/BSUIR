@@ -7,7 +7,7 @@ concept_siamese_neural_network
 		[Сиамская нейронная сеть](* <- lang_ru;; *);
 		[Siamese neural network](* <- lang_eng;; *);
 
-concept_siamese_neural_network
+
 	<- rrel_key_sc_element: ...
 	(*
 		<- definition;;
